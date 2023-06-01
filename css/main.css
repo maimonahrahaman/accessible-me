@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: rgb(255, 224, 224);
   margin: 0;
   padding: 0;
 }
@@ -32,7 +32,7 @@ img {
   padding: 0;
 }
 
-.main-nav ul li {
+nav ul li {
   flex: 1;
   text-align: center;
 }
@@ -66,6 +66,6 @@ form button {
   text-transform: uppercase;
 }
 
-.site-footer {
+footer {
   padding: 2rem 0;
 }
